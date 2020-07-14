@@ -1,0 +1,12 @@
+[submodule "pumpkin-book"]
+	path = pumpkin-book
+	url = https://github.com/imeixi/pumpkin-book.git
+[submodule "learn_dl"]
+	path = learn_dl
+	url = https://github.com/imeixi/learn_dl.git
+[submodule "leetcode-all-solutions"]
+	path = leetcode-all-solutions
+	url = https://github.com/imeixi/lc-all-solutions.git
+[submodule "coding-interview-university"]
+	path = coding-interview-university
+	url = https://github.com/imeixi/coding-interview-university.git
